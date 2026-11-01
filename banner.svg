@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<style>
+@keyframes cyc{0%,2%{opacity:0}6%,22%{opacity:1}27%,100%{opacity:0}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes caret{50%{opacity:0}}
+.l{opacity:0;animation:cyc 12s infinite} .l1{animation-delay:3s} .l2{animation-delay:6s} .l3{animation-delay:9s}
+.fl{animation:float 5s ease-in-out infinite} .caret{animation:caret 1s steps(1) infinite}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#0a1626"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#7ee8fa"/></linearGradient></defs>
+<rect width="1200" height="400" rx="22" fill="url(#bg)" stroke="#1b2735" stroke-width="2"/>
+<text x="517" y="333" font-size="22" fill="#58a6ff" opacity="0.15">++</text><text x="164" y="340" font-size="14" fill="#58a6ff" opacity="0.33">++</text><text x="1155" y="273" font-size="20" fill="#58a6ff" opacity="0.27">01</text><text x="504" y="355" font-size="16" fill="#58a6ff" opacity="0.32">&lt;div&gt;</text><text x="356" y="332" font-size="14" fill="#58a6ff" opacity="0.19">&lt;/&gt;</text><text x="838" y="325" font-size="21" fill="#58a6ff" opacity="0.34">01</text><text x="778" y="79" font-size="14" fill="#58a6ff" opacity="0.15">=&gt;</text><text x="1068" y="227" font-size="23" fill="#58a6ff" opacity="0.20">&lt;div&gt;</text><text x="1139" y="322" font-size="23" fill="#58a6ff" opacity="0.14">=&gt;</text><text x="1017" y="357" font-size="21" fill="#58a6ff" opacity="0.14">{ }</text><text x="870" y="107" font-size="14" fill="#58a6ff" opacity="0.19">&lt;div&gt;</text><text x="273" y="52" font-size="23" fill="#58a6ff" opacity="0.26">&lt;/&gt;</text><text x="803" y="330" font-size="19" fill="#58a6ff" opacity="0.25">( )</text><text x="1065" y="150" font-size="14" fill="#58a6ff" opacity="0.19">{ }</text><text x="251" y="337" font-size="22" fill="#58a6ff" opacity="0.13">=&gt;</text><text x="569" y="109" font-size="25" fill="#58a6ff" opacity="0.13">[ ]</text><text x="1095" y="227" font-size="24" fill="#58a6ff" opacity="0.32">{ }</text><text x="1068" y="168" font-size="20" fill="#58a6ff" opacity="0.27">=&gt;</text><text x="724" y="35" font-size="26" fill="#58a6ff" opacity="0.22">[ ]</text><text x="302" y="60" font-size="24" fill="#58a6ff" opacity="0.26">++</text><text x="75" y="331" font-size="14" fill="#58a6ff" opacity="0.34">&lt;/&gt;</text><text x="802" y="83" font-size="26" fill="#58a6ff" opacity="0.31">01</text><text x="485" y="364" font-size="26" fill="#58a6ff" opacity="0.18">[ ]</text><text x="413" y="252" font-size="24" fill="#58a6ff" opacity="0.28">{ }</text><text x="719" y="362" font-size="17" fill="#58a6ff" opacity="0.32">++</text><text x="277" y="47" font-size="22" fill="#58a6ff" opacity="0.34">[ ]</text><text x="726" y="358" font-size="15" fill="#58a6ff" opacity="0.31">[ ]</text><text x="739" y="354" font-size="20" fill="#58a6ff" opacity="0.19">&lt;div&gt;</text><text x="39" y="274" font-size="23" fill="#58a6ff" opacity="0.35">&lt;div&gt;</text><text x="484" y="46" font-size="25" fill="#58a6ff" opacity="0.23">( )</text>
+<g class="fl">
+<rect x="60" y="70" width="330" height="240" rx="14" fill="#060a10" stroke="#1f2b3b"/>
+<rect x="60" y="70" width="330" height="34" rx="14" fill="#0c131d"/>
+<circle cx="84" cy="87" r="6" fill="#ff5f56"/><circle cx="104" cy="87" r="6" fill="#ffbd2e"/><circle cx="124" cy="87" r="6" fill="#27c93f"/>
+<text x="225" y="92" font-size="11" fill="#8b949e" text-anchor="middle">developer.js</text>
+<g font-size="13" fill="#58a6ff"><text x="82" y="136">const dev = {</text><text x="104" y="160" fill="#cfe3ff">name: "YOUR NAME",</text><text x="104" y="184" fill="#cfe3ff">role: "Frontend",</text><text x="104" y="208" fill="#cfe3ff">stack: ["JS","React"],</text><text x="104" y="232" fill="#7ee8fa">coffee: true,</text><text x="82" y="256">};</text><text x="82" y="288" fill="#3fb950">dev.build();</text><rect class="caret" x="170" y="277" width="8" height="14" fill="#58a6ff"/></g>
+</g>
+<text x="470" y="150" font-size="14" letter-spacing="6" fill="#58a6ff">&lt; HELLO WORLD /&gt;</text>
+<text x="470" y="192" font-size="22" font-weight="700" fill="#8b949e">Hi, I'm YOUR NAME</text>
+<text class="l l0" x="470" y="228" font-size="30" font-weight="800" fill="#fff">Frontend Developer</text><text class="l l1" x="470" y="228" font-size="30" font-weight="800" fill="#fff">JavaScript &amp; React Enthusiast</text><text class="l l2" x="470" y="228" font-size="30" font-weight="800" fill="#fff">Always Learning, Always Building</text><text class="l l3" x="470" y="228" font-size="30" font-weight="800" fill="#fff">Turning Ideas Into Real Websites</text>
+<rect x="470" y="262" width="300" height="4" rx="2" fill="url(#ln)"/>
+<text x="470" y="300" font-size="13" fill="#6b7686">HTML • CSS • JavaScript • TypeScript • React • Node.js</text>
+</svg>

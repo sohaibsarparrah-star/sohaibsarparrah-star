@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="640" viewBox="0 0 400 640" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<!-- EDIT: YOUR NAME / ROLE / @USERNAME / CITY below. Photo: run scripts/embed_photo.py -->
+<style>
+@keyframes scan{0%{transform:translateX(-4px)}100%{transform:translateX(224px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes sway{0%,100%{transform:rotate(-1.5deg)}50%{transform:rotate(1.5deg)}}
+.scan{animation:scan 2.4s ease-in-out infinite alternate}
+.ring{transform-origin:200px 262px;animation:spin 14s linear infinite}
+.dot{animation:blink 1.6s infinite}
+.sway{transform-origin:200px 20px;animation:sway 6s ease-in-out infinite}
+</style>
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#1b2735"/></linearGradient>
+<linearGradient id="strap" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2a44"/><stop offset="1" stop-color="#0b1424"/></linearGradient>
+<clipPath id="photoClip"><circle cx="200" cy="262" r="50"/></clipPath>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g class="sway">
+<rect x="188" y="0" width="24" height="112" fill="url(#strap)"/>
+<text transform="translate(205,10) rotate(90)" font-size="7.5" letter-spacing="2" fill="#58a6ff" opacity=".8">KEEP CODING • KEEP BUILDING • KEEP CODING •</text>
+<rect x="186" y="104" width="28" height="26" rx="5" fill="#2a3340" stroke="#58a6ff" stroke-opacity=".5"/>
+<rect x="30" y="126" width="340" height="490" rx="26" fill="#050505" stroke="url(#edge)" stroke-width="2.5"/>
+<rect x="190" y="136" width="20" height="6" rx="3" fill="#000" stroke="#2a3340"/>
+<text x="62" y="168" font-size="11" font-weight="800" letter-spacing="3" fill="#58a6ff">&lt;/&gt;</text>
+<text x="200" y="168" font-size="12" font-weight="800" letter-spacing="3" text-anchor="middle" fill="#fff">DEVELOPER ID</text>
+<circle class="dot" cx="338" cy="164" r="4.5" fill="#22c55e" filter="url(#glow)"/>
+<line x1="52" y1="182" x2="348" y2="182" stroke="#1b2735"/>
+<!-- photo ring -->
+<circle cx="200" cy="262" r="64" fill="none" stroke="#1b2735" stroke-width="2"/>
+<circle class="ring" cx="200" cy="262" r="64" fill="none" stroke="#58a6ff" stroke-width="2" stroke-dasharray="55 347" stroke-linecap="round" filter="url(#glow)"/>
+<circle cx="200" cy="262" r="50" fill="#0d1520"/>
+<!--PHOTO-->
+<g clip-path="url(#photoClip)" fill="#2b3a52"><circle cx="200" cy="252" r="18"/><path d="M155,320 C155,282 245,282 245,320 Z"/></g>
+<!--/PHOTO-->
+<text x="200" y="356" font-size="24" font-weight="800" text-anchor="middle" fill="#fff">YOUR NAME</text>
+<text x="200" y="380" font-size="12" font-weight="700" letter-spacing="3" text-anchor="middle" fill="#58a6ff">FRONTEND DEVELOPER</text>
+<text x="200" y="398" font-size="10.5" text-anchor="middle" fill="#8b949e">@YOUR_USERNAME</text>
+<path d="M188,412 L200,418 L212,412 L200,406 Z" fill="#58a6ff"/>
+<text x="56" y="442" font-size="9" letter-spacing="1.5" fill="#6b7686">BASED IN</text>
+<text x="344" y="442" font-size="12" font-weight="700" text-anchor="end" fill="#fff">YOUR CITY, COUNTRY</text>
+<text x="56" y="464" font-size="9" letter-spacing="1.5" fill="#6b7686">STATUS</text>
+<text x="344" y="464" font-size="12" font-weight="700" text-anchor="end" fill="#58a6ff">Always learning</text>
+<g transform="translate(84.2,480)"><rect x="0.0" y="0" width="28.4" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-opacity=".7"/><text x="14.2" y="15" font-size="10.5" font-weight="700" text-anchor="middle" fill="#cfe3ff">JS</text><rect x="36.4" y="0" width="28.4" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-opacity=".7"/><text x="50.6" y="15" font-size="10.5" font-weight="700" text-anchor="middle" fill="#cfe3ff">TS</text><rect x="72.8" y="0" width="50.0" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-opacity=".7"/><text x="97.8" y="15" font-size="10.5" font-weight="700" text-anchor="middle" fill="#cfe3ff">React</text><rect x="130.8" y="0" width="42.8" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-opacity=".7"/><text x="152.2" y="15" font-size="10.5" font-weight="700" text-anchor="middle" fill="#cfe3ff">Node</text><rect x="181.6" y="0" width="50.0" height="22" rx="11" fill="none" stroke="#58a6ff" stroke-opacity=".7"/><text x="206.6" y="15" font-size="10.5" font-weight="700" text-anchor="middle" fill="#cfe3ff">Mongo</text></g>
+<g transform="translate(90,516)" fill="#cfe3ff"><rect x="0.0" y="0" width="3" height="46"/><rect x="4.5" y="0" width="4" height="46"/><rect x="11.5" y="0" width="1.5" height="46"/><rect x="14.5" y="0" width="1.5" height="46"/><rect x="18.0" y="0" width="1.5" height="46"/><rect x="22.5" y="0" width="2" height="46"/><rect x="26.0" y="0" width="1.5" height="46"/><rect x="29.5" y="0" width="4" height="46"/><rect x="35.0" y="0" width="2" height="46"/><rect x="38.5" y="0" width="4" height="46"/><rect x="44.0" y="0" width="1.5" height="46"/><rect x="47.0" y="0" width="1.5" height="46"/><rect x="51.5" y="0" width="4" height="46"/><rect x="57.0" y="0" width="2" height="46"/><rect x="60.5" y="0" width="2" height="46"/><rect x="64.5" y="0" width="4" height="46"/><rect x="70.0" y="0" width="1.5" height="46"/><rect x="74.5" y="0" width="3" height="46"/><rect x="80.5" y="0" width="2" height="46"/><rect x="84.0" y="0" width="2" height="46"/><rect x="88.0" y="0" width="1.5" height="46"/><rect x="92.5" y="0" width="1.5" height="46"/><rect x="97.0" y="0" width="1.5" height="46"/><rect x="101.5" y="0" width="2" height="46"/><rect x="105.5" y="0" width="4" height="46"/><rect x="111.5" y="0" width="4" height="46"/><rect x="118.5" y="0" width="4" height="46"/><rect x="124.5" y="0" width="3" height="46"/><rect x="129.0" y="0" width="2" height="46"/><rect x="134.0" y="0" width="2" height="46"/><rect x="137.5" y="0" width="3" height="46"/><rect x="143.5" y="0" width="4" height="46"/><rect x="149.5" y="0" width="4" height="46"/><rect x="155.5" y="0" width="1.5" height="46"/><rect x="158.5" y="0" width="4" height="46"/><rect x="164.0" y="0" width="3" height="46"/><rect x="168.5" y="0" width="4" height="46"/><rect x="174.5" y="0" width="1.5" height="46"/><rect x="179.0" y="0" width="1.5" height="46"/><rect x="183.5" y="0" width="3" height="46"/><rect x="188.5" y="0" width="3" height="46"/><rect x="194.5" y="0" width="4" height="46"/><rect x="201.5" y="0" width="4" height="46"/><rect x="207.0" y="0" width="1.5" height="46"/><rect x="210.5" y="0" width="4" height="46"/><rect x="217.5" y="0" width="1.5" height="46"/>
+<rect class="scan" x="0" y="-4" width="2.5" height="54" fill="#58a6ff" filter="url(#glow)"/></g>
+<text x="200" y="586" font-size="9" letter-spacing="3" text-anchor="middle" fill="#58a6ff">SCANNING...</text>
+<text x="200" y="604" font-size="8" letter-spacing="1.5" text-anchor="middle" fill="#6b7686">ID: DEV-2026 • WEB DEV</text>
+</g>
+</svg>
