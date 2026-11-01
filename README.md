@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# Hi there, I'm YOUR NAME 👋
+# Hi there, I'm Sohaib Sarparrah 👋
 
 ### Frontend Developer | Turning Ideas Into Real Websites
 
