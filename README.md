@@ -31,7 +31,7 @@
 - 🔭 I build responsive, user-friendly and impactful web experiences
 - 🌱 Always learning, always building
 - 💡 Turning ideas into real-world solutions
-- 📫 Reach me at **your@email.com**
+- 📫 Reach me at **sohaibsarparrah@email.com**
 
 ### 🛠️ Tech I Know
 
