@@ -47,7 +47,7 @@
 
 *Every commit raises another building  rebuilt automatically every day.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
 
 <br/><br/>
 
