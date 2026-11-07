@@ -1,83 +1,72 @@
-<!-- ============ EDIT ONLY: YOUR_USERNAME, YOUR NAME, email, links ============ -->
-
 <div align="center">
 
-<img src="./banner.svg" alt="banner" width="100%" />
+<!-- 🎬 HERO  video intro -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Sohaib Sarparrah  Software Developer" width="100%"/>
+
+<br/><br/>
+
+<img src="./team7-dance.gif" alt="Team 7 chibi dance" width="260"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=000000&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=000000)
+<!-- 🍥 MY NINJA WAY -->
+<img src="./ninja-way.svg?v=1" alt="My ninja way  what I build" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/YOUR_BEHANCE)
+<br/><br/>
+
+<!-- 🔦 JUTSU ARSENAL -->
+<img src="./jutsu-stack.svg?v=1" alt="Jutsu arsenal  my tech stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
+<img src="./ninja-id.svg?v=1" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+
+<br/><br/>
 
 </div>
 
----
+## 🍥 S-Rank Missions
 
 <table>
-<tr>
-<td width="36%" align="center" valign="top">
-
-<img src="./idcard.svg" width="280" alt="Developer ID" />
-
-</td>
-<td width="64%" valign="top">
-
-### 💙 About Me
-
-- 🔭 I build responsive, user-friendly and impactful web experiences
-- 🌱 Always learning, always building
-- 💡 Turning ideas into real-world solutions
-- 📫 Reach me at **your@email.com**
-
-### 🛠️ Tech I Know
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-### 🚀 Projects
-
-| Project | Tech | Status |
-|---------|------|--------|
-| [Assignments](https://github.com/YOUR_USERNAME/Assignments) | `HTML` | ✅ Done |
-| Portfolio Website | `HTML` `CSS` `JS` | 🔨 Coming Soon |
-| React App | `React` | 🔨 Coming Soon |
-
-> 💙 *"Code is my art, logic is my superpower."*
-
-</td>
-</tr>
+<tr><th>Mission</th><th>What it is</th><th>Jutsu used</th><th align="center">⭐</th></tr>
+<tr><td><a href="https://github.com/sohaibsarparrah-star/project-one"><b>Project One</b></a></td><td>One line about what this project does</td><td><code>JavaScript</code> <code>CSS</code></td><td align="center"><b>0</b></td></tr>
+<tr><td><a href="https://github.com/sohaibsarparrah-star/project-two"><b>Project Two</b></a></td><td>One line about what this project does</td><td><code>HTML</code> <code>CSS</code> <code>JS</code></td><td align="center"><b>0</b></td></tr>
+<tr><td><a href="https://github.com/sohaibsarparrah-star/project-three"><b>Project Three</b></a></td><td>One line about what this project does</td><td><code>TypeScript</code> <code>React</code></td><td align="center"><b>0</b></td></tr>
 </table>
-
----
 
 <div align="center">
 
-## 📊 GitHub Stats
+<a href="https://github.com/sohaibsarparrah-star?tab=repositories"><b>→ See all repositories</b></a>
 
-<img src="./profile/stats.svg" alt="GitHub Stats" width="100%" />
+<br/><br/>
 
-## 🏆 GitHub Achievements
+<img src="./rasengan-run.gif" alt="Naruto running with a rasengan" width="150"/>
 
-<img src="./profile/trophy.svg" alt="GitHub Achievements" width="100%" />
+### 🌃 My contribution village
 
-## 🐍 Watch the Snake Eat My Contributions
+*Every commit raises another building  rebuilt automatically every day.*
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" alt="Snake animation" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/><br/>
+
+<!-- 💌 JOIN THE SQUAD -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/sohaibsarparrah-star"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
+<a href="mailto:sohaibsarparrah@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
+<a href="https://www.instagram.com/your_handle"><img src="https://img.shields.io/badge/Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
+<a href="https://www.threads.net/@your_handle"><img src="https://img.shields.io/badge/Threads-2fd48a?style=for-the-badge&logo=threads&logoColor=0b0d13" alt="Threads"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sohaibsarparrah-star&color=ff7a1a&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 
 <br/>
 
-⭐ *Always learning, always building.* 💙
+<img src="./chibi-walk.gif" alt="Chibi Naruto walking" width="90"/>
+
+**Dattebayo  keep coding, keep growing.** 🍥
 
 </div>
