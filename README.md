@@ -56,7 +56,7 @@
 
 <a href="https://github.com/sohaibsarparrah-star"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
 <a href="mailto:sohaibsarparrah@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
-<a href="https://www.instagram.com/your_handle"><img src="https://img.shields.io/badge/Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
+<a href="https://www.instagram.com/sohaibsarparrah"><img src="https://img.shields.io/badge/Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
 <a href="https://www.threads.net/@your_handle"><img src="https://img.shields.io/badge/Threads-2fd48a?style=for-the-badge&logo=threads&logoColor=0b0d13" alt="Threads"/></a>
 
 <br/><br/>
